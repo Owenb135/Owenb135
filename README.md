@@ -15,7 +15,7 @@ I enjoy building games, creating software, upgrading computers, exploring virtua
 ### Languages
 
 * C++ - I know it well
-* Python - I know it a bit
+* Python - I know well
 * Lua - I know it pretty well
 * Java - I know it
 * Kotlin - I know it a bit
