@@ -101,7 +101,8 @@ Every language taught me new ways to solve problems and build projects.
 
 ## 🌟 Extracurricular Activities
 
-* iD Tech (3 years, 6 courses at University of Michigan)
+* iD Tech (4 years, 7 courses at University of Michigan)
+* MSU GATE (1 year, 2 courses.)
 * Speed Cubing
 * PC Building
 * PC Upgrading
